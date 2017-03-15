@@ -51,7 +51,5 @@ D:\DevAgr\PluralSight\modernizing-websites-microsoft-azure\DashboardApp\Dashboar
 D:\DevAgr\PluralSight\modernizing-websites-microsoft-azure\DashboardApp\DashboardApp\bin\WebMatrix.WebData.xml
 D:\DevAgr\PluralSight\modernizing-websites-microsoft-azure\DashboardApp\DashboardApp\bin\Org.Mentalis.Security.Cryptography.xml
 D:\DevAgr\PluralSight\modernizing-websites-microsoft-azure\DashboardApp\DashboardApp\bin\Mono.Math.xml
-D:\DevAgr\PluralSight\modernizing-websites-microsoft-azure\DashboardApp\DashboardApp\obj\Release\DashboardApp.csproj.App.config
-D:\DevAgr\PluralSight\modernizing-websites-microsoft-azure\DashboardApp\DashboardApp\obj\Release\DashboardApp.csprojResolveAssemblyReference.cache
 D:\DevAgr\PluralSight\modernizing-websites-microsoft-azure\DashboardApp\DashboardApp\obj\Release\DashboardApp.dll
 D:\DevAgr\PluralSight\modernizing-websites-microsoft-azure\DashboardApp\DashboardApp\obj\Release\DashboardApp.pdb
